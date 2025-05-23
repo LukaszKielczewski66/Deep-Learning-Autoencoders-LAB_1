@@ -1,3 +1,5 @@
+# Projekt wykonany w zespole z Maciejem Szubiczukiem
+
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
